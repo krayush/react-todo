@@ -1,0 +1,11 @@
+.nav{
+    height: 50px;
+    background-color: yellow;
+    color: #fff;
+    display: block;
+}
+.nav-tem{
+    display: inline-block;
+    margin: 10px 20px;
+
+}
